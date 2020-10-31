@@ -1,9 +1,9 @@
 # Docs
 coding related documents and related source code.
 
-You can contribute srouce code for any language.
-If the number of files in the root directory is increasing a lot, then you can rearrange them in folder strcuture.
-These repositories are ment to help begineers.
+You can contribute source code for any language.
+If the number of files in the root directory is increasing a lot, then you can rearrange them in folder structure.
+These repositories are meant to help beginners.
 
 - ### Guidelines for Contribution
     1. **Fork** the Repository
